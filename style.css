@@ -415,6 +415,7 @@ hr {
 .container button:hover {
     background-color: pink;
 }
+
 .comment-container.active{
     background-color: #1d1d1d;
     color: wheat;
