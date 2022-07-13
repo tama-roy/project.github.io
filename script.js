@@ -1,6 +1,6 @@
 const ball = document.querySelector(".toggle-ball");
 const items = document.querySelectorAll(
-  ".content-container,.footer,.navbar,.navbar-container"
+  ".content-container,.footer,.navbar,.navbar-container,.comment-container"
 );
 
 ball.addEventListener("click", () => {
@@ -9,4 +9,3 @@ ball.addEventListener("click", () => {
   });
   ball.classList.toggle("active");
 });
-
