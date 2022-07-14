@@ -84,10 +84,13 @@ hr {
 }
 
 .menu-items {
+    padding: 6px 13px;
     margin: 10px;
 }
 
 .menu-items:hover {
+    background-color: pink;
+    border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
 }
