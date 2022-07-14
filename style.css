@@ -402,9 +402,10 @@ hr {
 
 .container input[type=text] {
     margin-bottom: 100px;
-    height: 100px;
+    height: 200px;
     width: 400px;
     background-color: pink;
+    border:none;
     border-radius: 20px;
 }
 
