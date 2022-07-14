@@ -89,7 +89,7 @@ hr {
 }
 
 .menu-items:hover {
-    background-color: pink;
+    background-color: black;
     border-radius: 5px;
     cursor: pointer;
     font-weight: bold;
